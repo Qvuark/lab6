@@ -1,0 +1,16 @@
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\bin\Debug\net6.0-windows\Geometrical figures.exe
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\bin\Debug\net6.0-windows\Geometrical figures.deps.json
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\bin\Debug\net6.0-windows\Geometrical figures.runtimeconfig.json
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\bin\Debug\net6.0-windows\Geometrical figures.dll
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\bin\Debug\net6.0-windows\Geometrical figures.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\MyForm.resources
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.csproj.GenerateResource.cache
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.AssemblyInfoInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.AssemblyInfo.cs
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.dll
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\refint\Geometrical figures.dll
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\Geometrical figures.genruntimeconfig.cache
+C:\Users\roma1\source\repos\Geometrical figures\Geometrical figures\obj\Debug\net6.0-windows\ref\Geometrical figures.dll

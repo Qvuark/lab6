@@ -1,0 +1,16 @@
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\bin\Debug\net6.0-windows\Moving train.exe
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\bin\Debug\net6.0-windows\Moving train.deps.json
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\bin\Debug\net6.0-windows\Moving train.runtimeconfig.json
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\bin\Debug\net6.0-windows\Moving train.dll
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\bin\Debug\net6.0-windows\Moving train.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving_train.Form1.resources
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.csproj.GenerateResource.cache
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.AssemblyInfoInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.AssemblyInfo.cs
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.dll
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\refint\Moving train.dll
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\Moving train.genruntimeconfig.cache
+C:\Users\roma1\source\repos\Geometrical figures\Moving train\obj\Debug\net6.0-windows\ref\Moving train.dll

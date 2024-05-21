@@ -1,0 +1,17 @@
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\bin\Debug\net6.0-windows\Flying rectangle.exe
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\bin\Debug\net6.0-windows\Flying rectangle.deps.json
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\bin\Debug\net6.0-windows\Flying rectangle.runtimeconfig.json
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\bin\Debug\net6.0-windows\Flying rectangle.dll
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\bin\Debug\net6.0-windows\Flying rectangle.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying_rectangle.Form1.resources
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.csproj.GenerateResource.cache
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.AssemblyInfoInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.AssemblyInfo.cs
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.dll
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\refint\Flying rectangle.dll
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\Flying rectangle.genruntimeconfig.cache
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\ref\Flying rectangle.dll
+C:\Users\roma1\source\repos\Geometrical figures\Flying rectangle\obj\Debug\net6.0-windows\MyForm.resources

@@ -1,0 +1,17 @@
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\bin\Debug\net6.0-windows\Landscape.exe
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\bin\Debug\net6.0-windows\Landscape.deps.json
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\bin\Debug\net6.0-windows\Landscape.runtimeconfig.json
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\bin\Debug\net6.0-windows\Landscape.dll
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\bin\Debug\net6.0-windows\Landscape.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.Form1.resources
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.csproj.GenerateResource.cache
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.AssemblyInfoInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.AssemblyInfo.cs
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.dll
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\refint\Landscape.dll
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.pdb
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\Landscape.genruntimeconfig.cache
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\ref\Landscape.dll
+C:\Users\roma1\source\repos\Geometrical figures\Landscape\obj\Debug\net6.0-windows\MyForm.resources
